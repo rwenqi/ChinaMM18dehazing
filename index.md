@@ -23,5 +23,7 @@
 9月初ChinaMM大会期间 竞赛颁奖
 
 ## 竞赛组委会
-**任文琦** ![image](https://sites.google.com/site/renwenqi888/research/denoising/matlab-code/180.png) 中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
+![image](https://sites.google.com/site/renwenqi888/research/denoising/matlab-code/180.png)   
+**任文琦**  中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
+![image](https://sites.google.com/site/renwenqi888/research/denoising/matlab-code/zhangyang.png)   
 **汪张扬** 德州农机大学（Texas A&M University）  助理教授
