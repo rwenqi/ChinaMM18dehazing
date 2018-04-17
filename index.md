@@ -23,7 +23,7 @@
 9月初ChinaMM大会期间 竞赛颁奖
 
 ## 竞赛组委会
-![image](https://github.com/rwenqi/cc1.github.com/blob/master/180.png)
+![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/180.png)
 **任文琦**  中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/zhangyang.png)
 **汪张扬** 德州农机大学（Texas A&M University）  助理教授
