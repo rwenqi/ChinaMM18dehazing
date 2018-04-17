@@ -28,5 +28,5 @@
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/zhangyang.png)
 **汪张扬** 德州农机大学（Texas A&M University）  助理教授  
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/fanxin.png)
-**樊鑫**  大连理工大学 &nbsp; &nbsp; 教授 
+**樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授 
 
