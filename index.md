@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎参加ChinaMM2018 图像去雾竞赛
 
 You can use the [editor on GitHub](https://github.com/rwenqi/cc.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
