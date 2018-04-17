@@ -23,5 +23,5 @@
 9月初ChinaMM大会期间 竞赛颁奖
 
 ## 竞赛组委会
-**任文琦** 中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
+**任文琦** ![image](https://f5da1530-a-62cb3a1a-s-sites.googlegroups.com/site/renwenqi888/home/180.png?attachauth=ANoY7cq_VQW5AKwFM-4-96jnfr55QZlTqgupxNJxKHb9xbe9_4SWT-lAexsdgvHNlOsFIXSkPFYPHwAM6zjv0vVJ_lJXH0pVwvfUfLWyOFioaK8X9znjkrtuguQrLVwBlzZAiwEGKio-_4v9TdmTzEqE4Cjjb2MM2kxct0BzicPHifRqWmRBvESEzws023mRtE8xx789wmvYoSe8HjB9yenwPWYT5YXFMw%3D%3D&attredirects=0) 中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
 **汪张扬** 德州农机大学（Texas A&M University）  助理教授
