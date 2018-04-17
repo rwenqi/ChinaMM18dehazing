@@ -26,11 +26,11 @@
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/180.png)
 **任文琦**  中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/yuanfang.png)
-**郭园方**  中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
+**郭园方**  中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/zhangyang.png)
 **汪张扬** 德州农机大学（Texas A&M University）  助理教授  
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/gaofeng.png)
-**孟高峰**  &nbsp;  中国科学院自动化研究所 &nbsp; &nbsp; 副研究员  
+**孟高峰**  &nbsp;  中国科学院自动化研究所 &nbsp; &nbsp; 副研究员  
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/fanxin.png)
 **樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授 
 
