@@ -23,5 +23,5 @@
 9月初ChinaMM大会期间 竞赛颁奖
 
 ## 竞赛组委会
-**任文琦** ![image](https://pan.baidu.com/disk/home#/all?vmode=list&path=%2F%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87) 中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
+**任文琦** ![image](https://sites.google.com/site/renwenqi888/research/denoising/matlab-code/180.png) 中国科学院信息工程研究所 &nbsp; &nbsp; 助理研究员  
 **汪张扬** 德州农机大学（Texas A&M University）  助理教授
