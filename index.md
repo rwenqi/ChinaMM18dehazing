@@ -37,6 +37,8 @@
 **孟高峰**  &nbsp;  中科院自动化研究所 &nbsp; &nbsp; 副研究员  
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/fanxin.png)
 **樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授 
+![image](https://raw.githubusercontent.com/rwenqi/test.github.com/master/jishun.png)
+**郭继舜**  &nbsp;  广汽研究院 &nbsp; &nbsp; 研究员
 
 ## 致谢
 感谢广汽研究院提供真实雾霾测试数据。  
