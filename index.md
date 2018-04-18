@@ -38,7 +38,7 @@
 ![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/fanxin.png)
 **樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授  
 ![image](https://raw.githubusercontent.com/rwenqi/test.github.com/master/jishun.png) 
-**郭继舜**  &nbsp;  广汽研究院 &nbsp; &nbsp; 研究员
+**郭继舜**  &nbsp;  广汽研究院智能网联中心智驾技术部 &nbsp; &nbsp; 部长
 
 ## 致谢
 感谢广汽研究院提供真实雾霾测试数据。  
