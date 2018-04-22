@@ -1,11 +1,11 @@
 # 竞赛主题：图像去雾处理
 ![image](https://raw.githubusercontent.com/rwenqi/test.github.com/master/dehazing.png)  
 
-# 参赛队伍
-![image](https://raw.githubusercontent.com/rwenqi/ChinaMM18dehazing/master/teamlist.png)  
-
 参与竞赛人员请将下列信息发送邮件至：dehaze18challenge@163.com，数据下载及使用方式将邮件回复告知。  
 队伍名称、队员（每位队员的真实姓名、单位、电子邮箱）、联系手机号。  
+
+# 参赛队伍
+![image](https://raw.githubusercontent.com/rwenqi/ChinaMM18dehazing/master/teamlist.png)  
 
 ## 竞赛简介：
 由于雾/雾霾/沙尘等恶劣天气是一种不可避免的气候现象。在这种条件下拍照、摄像以及监控等得到的图像和视频会产生严重的图像质量退化现象。图像去雾算法则是指针对雾/雾霾/沙尘等恶劣气候下拍摄得到的低质量图像进行恢复和增强的方法，改善图像的视觉效果。  
