@@ -6,7 +6,7 @@
 报名截止时间为6月30日。
 
 # 参赛队伍
-![image](https://raw.githubusercontent.com/rwenqi/ChinaMM18dehazing/master/teamlist.png)  
+![image](https://raw.githubusercontent.com/rwenqi/ChinaMM18dehazing/master/teamlist.png)   
 
 ## 竞赛简介：
 由于雾/雾霾/沙尘等恶劣天气是一种不可避免的气候现象。在这种条件下拍照、摄像以及监控等得到的图像和视频会产生严重的图像质量退化现象。图像去雾算法则是指针对雾/雾霾/沙尘等恶劣气候下拍摄得到的低质量图像进行恢复和增强的方法，改善图像的视觉效果。  
