@@ -3,7 +3,7 @@
 
 参与竞赛人员请将下列信息发送邮件至：dehaze18challenge@163.com，数据下载及使用方式将邮件回复告知。  
 队伍名称、队员（每位队员的真实姓名、单位、电子邮箱）、联系手机号。  
-报名截止时间为6月30日。
+报名截止时间为6月30日。没人仅限参加一支队伍，不可重复参加。
 
 # 参赛队伍
 ![image](https://raw.githubusercontent.com/rwenqi/ChinaMM18dehazing/master/teamlist.png)   
