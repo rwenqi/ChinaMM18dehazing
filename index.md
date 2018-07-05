@@ -5,6 +5,11 @@
 队伍名称、队员（每位队员的真实姓名、单位、电子邮箱）、联系手机号。  
 报名截止时间为6月30日。每人仅限参加一支队伍，不可重复参加。  
 
+# 更新
+参与竞赛者可以参考数据库https://sites.google.com/view/reside-dehaze-datasets  
+以及相关最新实验https://arxiv.org/abs/1807.00202  
+本次的测试集类似于本数据库中的SOTS和RTTS。
+
 # 参赛队伍
 ![image](https://raw.githubusercontent.com/rwenqi/ChinaMM18dehazing/master/teamlist.png)   
 
